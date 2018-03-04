@@ -1,0 +1,42 @@
+
+
+.icecream{
+	text-align: center;
+	margin: 12.5% auto;
+}
+
+.upper{
+	vertical-align: middle;
+	margin: 0 auto;
+	height:100px;
+	width:175px;
+	background-color: rgba(255,0,0,0.8);
+	border-radius: 75px 75px 0px 0px;
+	box-sizing: border-box;
+
+}
+
+.middle{
+	margin:0 auto;
+	height:75px;
+	width:175px;
+	background-color:rgba(0,255,0,0.8);
+	box-sizing:border-box;
+}
+
+.bottom{
+	margin:0 auto;
+	height:60px;
+	width:175px;
+	background-color: rgba(255,255,0,0.8);
+	border-radius: 0px 0px 9px 9px;
+	box-sizing: border-box;
+}
+
+.stem{
+	margin:0 auto;
+	height:150px;
+	width:20px;
+	background-color: rgb(190,100,100);
+	border-radius: 0px 0px 5px 5px;
+}
